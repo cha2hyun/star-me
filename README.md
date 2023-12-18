@@ -5,7 +5,6 @@
 ### Sharing a github star
 This project was created because it was disappointing that even though it was a well-made repository, it had a low number of stars and was pushed down the rankings in the GitHub search engine.
 
-<br/>
 If you want to receive stars faster, please share the link 😊
 
 <br/>
