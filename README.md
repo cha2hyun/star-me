@@ -1,10 +1,20 @@
-https://github-star-share.vercel.app
+[Website](https://github-star-share.vercel.app)
 
+<img width="1000" alt="image" src="https://github.com/cha2hyun/star-me/assets/56015532/096ef3b7-5239-4e78-8c01-a11cd1b18b19">
 
-## 깃헙 레포지토리 좋아요 품앗이
+### Sharing a github star
+This project was created because it was disappointing that even though it was a well-made repository, it had a low number of stars and was pushed down the rankings in the GitHub search engine.
 
-잘만든 레포지토리가 스타수가 적어서 검색에 잘 나오지 않는 경우가 있어서 아쉬움이 있었습니다. 
+<br/>
+If you want to receive stars faster, please share the link 😊
 
-다른 사람들이 등록한 레포지토리에 좋아요를 1개 누를때마다 내가 등록한 레포지토리도 1개 좋아요를 받을 수 있습니다.
+<br/>
 
-현재 개발 진행중입니다. 
+### Simple method of use
+Give 1 star, Take 1 star.
+
+<br/>
+
+### Don't worry
+Personal information such as Github tokens is not stored in our database.
+
